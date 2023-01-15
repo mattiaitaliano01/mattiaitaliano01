@@ -1,17 +1,28 @@
-### Hi there 👋
-![mattia](https://user-images.githubusercontent.com/121700864/212503547-db29bb39-e154-40ed-b1ec-6b3040563157.png)
+# GitHub User Name :computer:
 
-<!--
-**mattiaitaliano01/mattiaitaliano01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me :bust_in_silhouette:
 
-Here are some ideas to get you started:
+I am a Junior developer with experience in Python and web development. I am always looking to improve my skills and work on interesting projects. :books:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills :wrench:
+- Strong knowledge of Python :snake:
+- Familiar with web development using frameworks like Flask and Django :globe_with_meridians:
+- Familiar with HTML, CSS, and JavaScript :art:
+- Familiar with Git and basic Agile development methodologies :octocat:
+- Strong problem-solving skills and ability to learn quickly :bulb:
+
+## Projects :computer:
+- **Project 1**: A simple web application that displays weather information. Built using Flask and OpenWeatherMap API. :sunny:
+- **Project 2**: A command-line tool that converts currencies. Built using Python and Exchange rate API. :moneybag:
+- **Project 3**: A simple chatbot that uses natural language processing to answer customer inquiries. Built using Python and NLTK. :speech_balloon:
+
+## Education :mortar_board:
+- Currently studying Computer Science at XYZ University :university:
+- Completed a course in Python programming from ABC Institute :books:
+
+## Contact :email:
+If you have any questions or would like to work with me, feel free to reach out to me on GitHub or LinkedIn.
+
+[GitHub](https://github.com/mattiaitaliano01)  |  [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/) :octocat: :busts_in_silhouette:
+
+![alt text](image_url)
