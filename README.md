@@ -1,6 +1,9 @@
 # Mattia Italiano :computer:
 
-## About Me :bust_in_silhouette:
+![image](https://user-images.githubusercontent.com/121700864/212504396-d44d1be4-8a2e-47f1-b2a5-68378d2f58ab.png)
+
+
+## About Me 🏃
 
 I am a Junior developer with experience in Python and web development. I am always looking to improve my skills and work on interesting projects. :books:
 
