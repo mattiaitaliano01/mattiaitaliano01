@@ -1,4 +1,5 @@
 ### Hi there 👋
+![mattia](https://user-images.githubusercontent.com/121700864/212503547-db29bb39-e154-40ed-b1ec-6b3040563157.png)
 
 <!--
 **mattiaitaliano01/mattiaitaliano01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
