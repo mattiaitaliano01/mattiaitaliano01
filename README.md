@@ -17,11 +17,11 @@ I am a Junior developer with experience in Python and web development. I am alwa
 - **Project 3**: ...
 
 ## Education :mortar_board:
-- Currently studying Financial Management at Uninettuno University :university:
+- Currently studying Financial Management at Uninettuno University 📈
 - Completed a course in Python programming and Software Engineering from HyperionDev Institute :books:
 
 ## Contact :email:
 If you have any questions or would like to work with me, feel free to reach out to me on GitHub or LinkedIn.
 
-[GitHub](https://github.com/mattiaitaliano01)  |  [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/) :octocat: :busts_in_silhouette:
+[GitHub](https://github.com/mattiaitaliano01) :octocat: |  [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/) :busts_in_silhouette:
 
